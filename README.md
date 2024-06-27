@@ -28,7 +28,7 @@
 <div align="center"> 
 
   <a href="https://instagram.com/efraimj_negreiros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/efraimnegreiros](https://www.linkedin.com/in/efraim-jos%C3%A9-negreiros-dos-santos-3ba3412b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/efraim-jos%C3%A9-negreiros-dos-santos-3ba3412b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <!--![Snake animation](https://github.com/cainamicael/cainamicael/blob/output/github-contribution-grid-snake.svg) -->
  
