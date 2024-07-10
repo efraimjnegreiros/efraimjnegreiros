@@ -1,4 +1,4 @@
-## Olá, eu sou o Efraim Negreiros! 😇👨‍🎓
+## Olá, eu sou o Efraim Negreiros! 👨‍🎓
 
 #### Cursando Técnico em Desenvolvimento de Sistemas - **2º Ano**
 - Dev **Front-End** e **Back-End**
