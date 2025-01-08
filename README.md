@@ -2,7 +2,7 @@
 
 #### Cursando Técnico em Desenvolvimento de Sistemas - **2º Ano**
 - Dev **Front-End** e **Back-End**
-- Estudando *Python, C++, HTML, CSS e Cibersegurança*
+- Estudando *Python, C++, HTML, CSS, Node, React e Js*
 
 ##
 
