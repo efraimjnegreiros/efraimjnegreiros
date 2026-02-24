@@ -55,6 +55,7 @@ Sempre evoluindo em arquitetura de software, boas práticas e organização de c
 ## The Top Programming Languages
 
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=efraimjnegreiros&layout=compact&theme=github_dark&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efraimjnegreiros&show_icons=true&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=efraimjnegreiros&theme=github-dark&hide_border=false)
 
 ---
