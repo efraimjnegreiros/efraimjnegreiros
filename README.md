@@ -52,8 +52,9 @@ Sempre evoluindo em arquitetura de software, boas práticas e organização de c
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efraimjnegreiros&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=efraimjnegreiros&layout=compact&theme=transparent&cache_seconds=1800)
+## The Top Programming Languages
 
+![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=efraimjnegreiros&layout=compact&theme=github_dark&cache_seconds=1800)
 ![GitHub Streak](https://streak-stats.demolab.com?user=efraimjnegreiros&theme=github-dark&hide_border=false)
 
 ---
